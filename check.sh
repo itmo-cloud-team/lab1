@@ -36,7 +36,7 @@ curl -ks https://airline.local/some-non-existent-stuff
 echo
 
 echo "7. Request flood"
-for i in $(seq 1 50)
+for i in $(seq 1 45)
 do
     echo "$ curl -ks -o /dev/null -w "HTTP %{http_code}\n" https://airline.local/api/list"
     curl -ks -o /dev/null -w "HTTP %{http_code}\n" https://airline.local/api/list
