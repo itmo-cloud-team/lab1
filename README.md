@@ -11,7 +11,7 @@
 <img width="611" height="237" alt="image" src="https://github.com/user-attachments/assets/97baf493-5908-433c-84f7-7548e79bf1b5" />
 
 2. Генерация SSL сертификата [/tmp/openssl.conf](https://github.com/itmo-cloud-team/lab1/blob/main/openssl.conf)
-<img width="906" height="218" alt="image" src="https://github.com/user-attachments/assets/c9a03260-ea03-49e5-960a-23b77e313c0c" />
+<img width="909" height="220" alt="image" src="https://github.com/user-attachments/assets/70452fba-9b41-4c3e-8918-a1e5f2c53b72" />
 
 3. Написание конфига nginx
 <img width="929" height="1079" alt="image" src="https://github.com/user-attachments/assets/eb55f45c-ec40-4d0d-b401-e29e5962f92e" />
